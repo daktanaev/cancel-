@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.092,=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.982,=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2022.05.19 14:36:39.875,=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2022.05.19 14:36:39.922,=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2022.05.19 14:36:51.001,C:\Users\Student\Documents\GitHub\cancel-\Unit1.cpp=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2022.05.19 14:36:51.001,C:\Users\Student\Documents\GitHub\cancel-\Unit1.h=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2022.05.19 14:36:51.001,C:\Users\Student\Documents\GitHub\cancel-\Unit1.dfm=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022.05.19 14:36:51.846,C:\Users\Student\Documents\GitHub\cancel-\Project1PCH1.h=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2022.05.19 14:36:52.550,C:\Users\Student\Documents\GitHub\cancel-\Project1.cbproj=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.239,=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,C:\Users\Student\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Student\Desktop\МИМ-119\Инструментальные средства информационных систем\калькулятор\lab3\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,C:\Users\Student\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Student\Desktop\МИМ-119\Инструментальные средства информационных систем\калькулятор\lab3\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,C:\Users\Student\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Student\Desktop\МИМ-119\Инструментальные средства информационных систем\калькулятор\lab3\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,C:\Users\Student\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Student\Desktop\МИМ-119\Инструментальные средства информационных систем\калькулятор\lab3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,=C:\Users\Student\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\Student\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Student\Desktop\МИМ-119\Инструментальные средства информационных систем\калькулятор\lab3\Project1.cbproj</Transaction>
   </Transactions>
 </BorlandProject>
